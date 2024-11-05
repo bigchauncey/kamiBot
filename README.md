@@ -45,6 +45,9 @@ For full functionality, always keep these windows open:
    - Create a new Chrome bookmark
    - Name it "kamiBot" (or your preferred name)
    - Paste the minified code as the bookmark URL
+  
+    ![image](https://github.com/user-attachments/assets/01f8f6cc-d2c5-4a68-a5f2-24377487af1e)
+
 3. **Usage**:
    - Open kamigotchi
    - Ensure required windows are open
@@ -53,6 +56,9 @@ For full functionality, always keep these windows open:
      - Pause Bot: Temporarily stop bot operations
      - Terminate Bot: Completely stop the bot and clean up
      - Evacuate All Kamis: Manually trigger emergency evacuation
+    
+     ![image](https://github.com/user-attachments/assets/67513ea9-c53e-44bc-b07e-0c7d1ef93493)
+
 
 ## Interface
 
@@ -61,6 +67,9 @@ After activation, kamiBot adds:
 - Missing HP indicators next to each kami
 - Control buttons for bot management
 - Evacuation status messages when triggered
+
+  ![kamibot gif](https://github.com/user-attachments/assets/1a60e8f7-a8aa-4f55-a440-d3d6327d8ff1)
+
 
 ## Logging
 
