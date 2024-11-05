@@ -1,3 +1,6 @@
+
+![kamiBot](https://github.com/user-attachments/assets/e6a3b049-13f5-4866-aedb-781259a867ae)
+
 # kamiBot by [minters](https://x.com/mintersdev)
 
 kamiBot is an automated script designed to keep your kamis alive during harvesting by constantly monitoring their HP and feeding them with Maple-Flavor Ghost Gum at optimal times to maximize efficiency.
